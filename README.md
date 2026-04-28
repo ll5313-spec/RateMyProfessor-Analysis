@@ -8,7 +8,7 @@ A data science capstone project for **Principles of Data Science II** (NYU, Spri
 
 This project applies statistical analysis and machine learning to explore what factors drive professor ratings. The dataset contains **~90,000 professor records** with numerical and qualitative features including average rating, difficulty, gender, hotness ("pepper"), and teaching modality.
 
-The analysis answers 10 research questions covering hypothesis testing, regression modeling, and classification — plus an extra credit exploration of regional variation.
+The analysis answers 10 research questions covering hypothesis testing, regression modeling, and classification, plus an extra credit exploration of regional variation.
 
 ---
 
@@ -36,7 +36,7 @@ The analysis answers 10 research questions covering hypothesis testing, regressi
 - **Difficulty & rating (Q3):** Strong negative correlation (r = −0.619); harder professors are rated lower.
 - **"Would Take Again" (Q5):** Very strong positive correlation with ratings (r = 0.880).
 - **Hotness & ratings (Q6):** "Hot" professors had a median rating of 4.5 vs 3.6 for others (p < 0.00001).
-- **Multiple regression (Q8):** R² = 0.81, RMSE = 0.37 — much stronger than difficulty-only model (R² = 0.38).
+- **Multiple regression (Q8):** R² = 0.81, RMSE = 0.37, much stronger than difficulty-only model (R² = 0.38).
 - **Pepper classification (Q10):** Full logistic model achieved AUC = 0.799 vs 0.778 for rating-only model.
 - **Regional patterns (EC):** UK locations (Glasgow, Manchester, Surrey) showed disproportionately high hotness rates, suggesting cultural variation in how students use the platform.
 
