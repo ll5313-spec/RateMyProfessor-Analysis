@@ -77,6 +77,6 @@ The dataset was provided by the course instructor (Professor Pascal Wallisch) an
 
 ## Course Info
 
-- **Course:** Principles of Data Science II — DS UA 112, NYU
+- **Course:** Principles of Data Science II (DS UA 112), NYU
 - **Instructor:** Professor Pascal Wallisch
 - **Semester:** Spring 2025
